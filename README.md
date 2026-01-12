@@ -71,7 +71,7 @@ The dashboard provides insights into content distribution across *countries, gen
 - Rapid increase in content after 2010
 - Peak releases observed in recent
 
-- ### ✅ Conclusion
+### ✅ Conclusion
 This project successfully demonstrates how *Power BI* can be used to transform raw Netflix data into meaningful and actionable insights. Through interactive visualizations, the dashboard highlights content distribution across countries, genres, ratings, and release years.
 
 The analysis reveals Netflix’s rapid content growth in recent years, with *movies dominating the platform, **drama being the most popular genre, and the **United States and India* emerging as major content contributors. Overall, this project showcases strong skills in *data cleaning, data modeling, DAX calculations, and data visualization*, making it a valuable addition to a data analytics portfolio

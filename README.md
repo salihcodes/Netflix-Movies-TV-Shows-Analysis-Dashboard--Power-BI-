@@ -9,7 +9,7 @@ This project analyzes a bank loan dataset to understand key financial metrics, b
 - <a href="https://github.com/salihcodes/Bank-loan-report-analysis-and-visualization/blob/main/Finance_1.xlsx">Dataset1</a>
 - <a href="https://github.com/salihcodes/Bank-loan-report-analysis-and-visualization/blob/main/Finance_2.xlsx">Dataset2</a>
 
--Dashboard Interactions <a href="https://github.com/salihcodes/Bank-loan-report-analysis-and-visualization/blob/main/bank_rep_st.png">View Dashboard</a>
+-Dashboard Interactions <a href="https://github.com/salihcodes/Netflix-Movies-TV-Shows-Analysis-Dashboard--Power-BI-/blob/main/Screenshot%202026-01-10%20114920.png">View Dashboard</a>
 
 # Netflix Power BI Dashboard 🎬📊
 
